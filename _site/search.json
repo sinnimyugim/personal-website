@@ -9,8 +9,8 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "personal-website",
+    "title": "Yichen(Cheney) Wang",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(20)\n\n [1] 0.56777137 0.09020933 0.42154691 0.47334104 0.47180000 0.15473289\n [7] 0.26645565 0.58388196 0.82903450 0.69530293 0.30370061 0.20707317\n[13] 0.23616616 0.26478342 0.57938452 0.28922070 0.24024525 0.07918950\n[19] 0.70217024 0.30414360\n\n\n\nrnorm(3)\n\n[1] -0.04055573  2.49710993  1.90076237"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(20)\n\n [1] 0.8520006 0.9605094 0.5348399 0.5408689 0.3466528 0.5698237 0.6859543\n [8] 0.4386411 0.9990963 0.8115962 0.1779225 0.2028579 0.4491865 0.6420547\n[15] 0.9187384 0.4581068 0.1637327 0.3448632 0.1370885 0.8052223\n\n\n\nrnorm(3)\n\n[1]  0.2697696  0.1245807 -0.0909021"
   }
 ]

@@ -1,5 +1,5 @@
 ---
-title: "personal-website"
+title: "Yichen(Cheney) Wang"
 ---
 
 This is a Quarto website.

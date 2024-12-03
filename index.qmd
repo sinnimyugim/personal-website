@@ -4,18 +4,17 @@ about:
   template: trestles
   image: profile_photo.jpg
   links:
-    - icon: LinkedIn
+    - text: LinkedIn
       url: "https://www.linkedin.com/in/yichen-cheney-wang-7bb269281/"
+      icon: LinkedIn
     - text: Email
       url: "mailto:zhuetuisan@gmail.com"
       icon: inbox-fill
-    - text: CV
-      url: "YichenWang_CV_F24.pdf"
 toc: false
 ---
 
 
-Yichen Wang is a senior student majoring in Applied Mathematics and Statistics at UCLA. He is also one of the founders of the Cicadas Chinese Calligraphy Club at UCLA. Being a data science enthusiast, he has worked on various machine learning projects and has a strong interest in financial engineering. 
+I am a senior student majoring in Applied Mathematics and Statistics at UCLA. I am also one of the founders of the Cicadas Chinese Calligraphy Club at UCLA. Being a data science enthusiast, I have worked on various machine learning projects and have a strong interest in financial engineering. 
 
 ## Education
 - **University of California, Los Angeles**

@@ -2,8 +2,8 @@
 title: "About"
 ---
 
-About this site
+Hi! I am Yichen Wang, a student at UCLA. Apart from my studies, I am passionate about art and culture. I run the **Cicadas Chinese Calligraphy Club** at UCLA, where we celebrate the beauty of traditional Chinese calligraphy and share it with the community.
 
-```{r}
-1 + 1
-```
+You can explore our work and learn more about the club on our [Instagram page](https://www.instagram.com/cicadas_chinese_calligraphy/).
+
+Feel free to reach out if you'd like to learn more or collaborate!

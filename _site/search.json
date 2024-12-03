@@ -4,13 +4,48 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Hi! I am Yichen Wang, a student at UCLA. Apart from my studies, I am passionate about art and culture. I run the Cicadas Chinese Calligraphy Club at UCLA, where we celebrate the beauty of traditional Chinese calligraphy and share it with the community.\nYou can explore our work and learn more about the club on our Instagram page.\nFeel free to reach out if you’d like to learn more or collaborate!"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects & Publications",
+    "section": "",
+    "text": "Title: [Intentional Youth Development Activities and Peer Effects in a Gang Prevention Program]\nIntroduction: [Quantitative Analysis for Gang Reduction and Youth Development (GRYD), CAM Applied Math REU Program, UCLA]\nLink: Download Paper 1\n\n\n\n\n\nTitle: [General Universal Convolution]\nIntroduction: [General Universal Convolution Study, collaboration with Prof. Greg. Dresden, Washington & Lee University]\nLink: Download Paper 2\n\n\n\n\n\nTitle: [Sums and Convolutions of k-bonacci & k-Lucas Numbers]\nAbstract: [Research on k-bonacci & k-Lucas Sequences, collaboration with Prof. Greg. Dresden, Washington & Lee University]\nLink: Download Paper 3"
+  },
+  {
+    "objectID": "projects.html#paper-1",
+    "href": "projects.html#paper-1",
+    "title": "Projects & Publications",
+    "section": "",
+    "text": "Title: [Intentional Youth Development Activities and Peer Effects in a Gang Prevention Program]\nIntroduction: [Quantitative Analysis for Gang Reduction and Youth Development (GRYD), CAM Applied Math REU Program, UCLA]\nLink: Download Paper 1"
+  },
+  {
+    "objectID": "projects.html#paper-2",
+    "href": "projects.html#paper-2",
+    "title": "Projects & Publications",
+    "section": "",
+    "text": "Title: [General Universal Convolution]\nIntroduction: [General Universal Convolution Study, collaboration with Prof. Greg. Dresden, Washington & Lee University]\nLink: Download Paper 2"
+  },
+  {
+    "objectID": "projects.html#paper-3",
+    "href": "projects.html#paper-3",
+    "title": "Projects & Publications",
+    "section": "",
+    "text": "Title: [Sums and Convolutions of k-bonacci & k-Lucas Numbers]\nAbstract: [Research on k-bonacci & k-Lucas Sequences, collaboration with Prof. Greg. Dresden, Washington & Lee University]\nLink: Download Paper 3"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Yichen(Cheney) Wang",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(20)\n\n [1] 0.8520006 0.9605094 0.5348399 0.5408689 0.3466528 0.5698237 0.6859543\n [8] 0.4386411 0.9990963 0.8115962 0.1779225 0.2028579 0.4491865 0.6420547\n[15] 0.9187384 0.4581068 0.1637327 0.3448632 0.1370885 0.8052223\n\n\n\nrnorm(3)\n\n[1]  0.2697696  0.1245807 -0.0909021"
+    "text": "Yichen Wang is a senior student majoring in Applied Mathematics and Statistics at UCLA. He is also one of the founders of the Cicadas Chinese Calligraphy Club at UCLA. Being a data science enthusiast, he has worked on various machine learning projects and has a strong interest in financial engineering."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Yichen(Cheney) Wang",
+    "section": "Education",
+    "text": "Education\n\nUniversity of California, Los Angeles\n\nBachelor of Science in Applied Mathematics and Statistics & Data Science\nSeptember 2021 - June 2025"
   }
 ]

@@ -1,0 +1,20 @@
+---
+toc: false
+---
+
+# Projects & Publications
+
+## Paper 1
+- **Title**: [Intentional Youth Development Activities and Peer Effects in a Gang Prevention Program]
+- **Introduction**: [Quantitative Analysis for Gang Reduction and Youth Development (GRYD), CAM Applied Math REU Program, UCLA]
+- **Link**: [Download Paper 1](https://ieeexplore.ieee.org/abstract/document/10386512)
+
+## Paper 2
+- **Title**: [General Universal Convolution]
+- **Introduction**: [General Universal Convolution Study, collaboration with Prof. Greg. Dresden, Washington & Lee University]
+- **Link**: [Download Paper 2](https://dresden.academic.wlu.edu/files/2022/02/ConvolutionWebPage.pdf)
+
+## Paper 3
+- **Title**: [Sums and Convolutions of k-bonacci & k-Lucas Numbers]
+- **Abstract**: [Research on k-bonacci & k-Lucas Sequences, collaboration with Prof. Greg. Dresden, Washington & Lee University]
+- **Link**: [Download Paper 3](https://dresden.academic.wlu.edu/files/2021/05/DresdenWangWeb3.pdf)

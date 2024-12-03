@@ -2,18 +2,20 @@ project:
   type: website
 
 website:
-  title: "Yichen(Cheney) Wang"
+  title: "Yichen Wang"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      - text: Projects
+        href: projects.qmd
+  
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
-
-
-
+    # df-print: paged
+    toc: false
